@@ -1,0 +1,12 @@
+.clear {
+  float: clear;
+}
+.float-right {
+  float: right;
+}
+.float-left {
+  float: left;
+}
+img {
+  padding: 10px;
+}
